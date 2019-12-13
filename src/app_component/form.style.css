@@ -1,0 +1,54 @@
+.container form {
+  margin-top: 3rem;
+}
+
+.form-city,
+.form-country {
+  background-color: transparent;
+  color: rgb(255, 255, 213);
+  border: 0;
+  border-bottom: 2px solid rgb(236, 235, 137);
+  border-radius: 0;
+}
+
+.form-city:focus,
+.form-country:focus {
+  background-color: transparent;
+  box-shadow: none;
+  outline: none;
+  border-bottom: 2px solid rgb(252, 164, 0);
+  transition: border-bottom 0.9s ease;
+}
+
+.btn:hover {
+  background-color: rgb(252, 164, 0);
+}
+
+.alert-danger {
+  animation: errorSlowDown 1.5s;
+  transition: opacity 0.3s ease;
+}
+
+@keyframes errorSlowDown {
+  from {
+    top: -100px;
+  }
+  to {
+    top: 0px;
+  }
+}
+
+::placeholder {
+  color: #fff87d;
+  opacity: 0.5; /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #fff87d;
+}
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: #fff87d;
+}
