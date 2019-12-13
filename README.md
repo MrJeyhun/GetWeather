@@ -5,4 +5,7 @@ I've used ErikFlowers' "weather-icons" for weather icons<br />
 ___________________________________________________
 Used APIs:<br />
 -OpenWeatherMap
+_________________________________________________
+On Github Pages:<br />
+https://mrjeyhun.github.io/GetWeather/
 -
