@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/GetWeather/static/css/main.21e342f8.chunk.css",
+    "main.js": "/GetWeather/static/js/main.21c462d3.chunk.js",
+    "main.js.map": "/GetWeather/static/js/main.21c462d3.chunk.js.map",
+    "runtime-main.js": "/GetWeather/static/js/runtime-main.f537728c.js",
+    "runtime-main.js.map": "/GetWeather/static/js/runtime-main.f537728c.js.map",
+    "static/css/2.21c3bd60.chunk.css": "/GetWeather/static/css/2.21c3bd60.chunk.css",
+    "static/js/2.0eae9fbe.chunk.js": "/GetWeather/static/js/2.0eae9fbe.chunk.js",
+    "static/js/2.0eae9fbe.chunk.js.map": "/GetWeather/static/js/2.0eae9fbe.chunk.js.map",
+    "index.html": "/GetWeather/index.html",
+    "precache-manifest.0c073670dc4b793240ab6c8ffd02e232.js": "/GetWeather/precache-manifest.0c073670dc4b793240ab6c8ffd02e232.js",
+    "service-worker.js": "/GetWeather/service-worker.js",
+    "static/css/2.21c3bd60.chunk.css.map": "/GetWeather/static/css/2.21c3bd60.chunk.css.map",
+    "static/css/main.21e342f8.chunk.css.map": "/GetWeather/static/css/main.21e342f8.chunk.css.map",
+    "static/js/2.0eae9fbe.chunk.js.LICENSE": "/GetWeather/static/js/2.0eae9fbe.chunk.js.LICENSE",
+    "static/media/index.css": "/GetWeather/static/media/weather-wallpaper-4.fa8b05e9.jpg",
+    "static/media/weather-icons.css": "/GetWeather/static/media/weathericons-regular-webfont.ed0943f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f537728c.js",
+    "static/css/2.21c3bd60.chunk.css",
+    "static/js/2.0eae9fbe.chunk.js",
+    "static/css/main.21e342f8.chunk.css",
+    "static/js/main.21c462d3.chunk.js"
+  ]
+}
